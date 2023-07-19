@@ -1,6 +1,8 @@
 # TWINT in Jupyter Notebooks
 Sample notebooks using TWINT in Jupyter Notebooks
 
+> :exclamation: The TWINT project is no longer maintained as of 30th March 2023 following Elon Musk's changes at Twitter. As such, these notebooks may not work at all.
+
 ## What is TWINT?
 
 The Twitter Intelligence Tool (TWINT) is an advanced twitter scraping and OSINT tool.
